@@ -1,0 +1,19 @@
+{
+    "persons": [
+        {
+            "name": "Albert Einstein",
+            "photoUrl": "https://ichef.bbci.co.uk/news/624/mcs/media/images/82399000/jpg/_82399978_75952740.jpg",
+            "quote": "Единственное оправдание для существования времени — то, что все не происходит в один момент."
+        },
+        {
+            "name": "Jason Statham",
+            "photoUrl": "https://cps-static.rovicorp.com/2/Open/Getty/Jason%20Statham/_derived_jpg_q90_310x470_m0/88077454.jpg",
+            "quote": "Не ссы против ветра."
+        },
+        {
+            "name": "Petyr Baelish",
+            "photoUrl": "https://ichef.bbci.co.uk/news/624/mcs/media/images/82399000/jpg/_82399978_75952740.jpg",
+            "quote": "Только признав, кто мы есть — мы получим, чего хотим."
+        }
+    ]
+}
