@@ -7,18 +7,17 @@
     padding-right: 15%;
     height: fit-content;
     #quote-box {
-        // transform: translateY(50%);
         border: solid 1px black;
         padding: 15px;
         font-family: 'Raleway', sans-serif;
         font-weight: 400;
         min-height: 10px;
-        // width: 75vh;
         background-color: white;
         transition: height 1.5s;
         .person-name {
             padding-top: 35px;
             padding-left: 70px;
+            background-color: inherit;
         }
         .person-portrait {
             width: 110px;
@@ -37,10 +36,19 @@
             border-top: solid 1px ;
             font-size: 27px;
             text-align: justify;
+            background-color: inherit;
+            path {
+                background-color: white;
+
+            }
         }
         .twitter-link {
             margin-right: auto;
             margin-top: 10px;
+            background-color: inherit;
+            svg {
+                background-color: white;
+            }
         }
         .quote-btn {
             margin-right: 10px;
@@ -50,6 +58,9 @@
             position: relative;
             top: -10px;
             left: -4px;
+        }
+        .row {
+            background-color: inherit;
         }
     }
 }

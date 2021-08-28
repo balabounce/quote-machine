@@ -17,6 +17,85 @@
             "name": "Petyr Baelish",
             "photoUrl": "https://static.tvtropes.org/pmwiki/pub/images/littlefinger.png",
             "quote": "Только признав, кто мы есть — мы получим, чего хотим."
+        },
+        {
+            "id": 3,
+            "name": "Friedrich Nietzsche",
+            "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Nietzsche1882.jpg",
+            "quote": "Нужно носить в себе ещё хаос, чтобы быть в состоянии родить танцующую звезду."
+        },
+        {
+            "id": 4,
+            "name": "Marcus Aurelius",
+            "photoUrl": "https://aif-s3.aif.ru/images/023/499/bbc4015d47166a5245d2cb78d05df2b9.jpg",
+            "quote": "Какая разница — человек придумал Бога или наоборот, если все — обман?"
+        },
+        {
+            "id": 5,
+            "name": "Octavianus Augustus",
+            "photoUrl": "https://aforisimo.ru/autors/%D0%9E%D0%BA%D1%82%D0%B0%D0%B2%D0%B8%D0%B0%D0%BD%20%D0%90%D0%B2%D0%B3%D1%83%D1%81%D1%82.jpg",
+            "quote": "Как вам кажется, хорошо ли я сыграл комедию своей жизни?"
+        },
+        {
+            "id": 6,
+            "name": "Octavianus Augustus",
+            "photoUrl": "https://aforisimo.ru/autors/%D0%9E%D0%BA%D1%82%D0%B0%D0%B2%D0%B8%D0%B0%D0%BD%20%D0%90%D0%B2%D0%B3%D1%83%D1%81%D1%82.jpg",
+            "quote": "Как вам кажется, хорошо ли я сыграл комедию своей жизни?"
+        },
+        {
+            "id": 7,
+            "name": "Dante Alighieri",
+            "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Portrait_de_Dante.jpg/395px-Portrait_de_Dante.jpg",
+            "quote": "Самый мудрый человек тот, кого больше всего раздражает потеря времени"
+        },
+        {
+            "id": 8,
+            "name": "Niccolò Machiavelli",
+            "photoUrl": "https://listim.com/resize?path=%2Fupload%2F2018%2F10%2F248px-santi-di-tito---niccolo-machiavellis-portrait-headcrop--croped.jpg&w=200&h=200",
+            "quote": "Когда ты достиг власти, щедрость вредна; когда ты на пути к ней, щедрость необходима"
+        },
+        {
+            "id": 9,
+            "name": "Arthur Schopenhauer",
+            "photoUrl": "http://nbrb.ru/wp-content/uploads/2015/06/0_7d1e6_239584c1_XL1.jpg",
+            "quote": "Есть одна только врожденная ошибка — это убеждение, будто мы рождены для счастья."
+        },
+        {
+            "id": 10,
+            "name": "de La Rochefoucauld",
+            "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Fran%C3%A7ois_de_La_Rochefoucauld.jpg",
+            "quote": "Многие презирают жизненные блага, но почти никто не способен ими поделиться."
+        },
+        {
+            "id": 11,
+            "name": "«Фома»",
+            "photoUrl": "https://vokrug.tv/pic/news/1/b/2/3/1b23b56e48d5837f107b64cf0627849a.jpg",
+            "quote": "Настоящего мужчину, если он настоящий, его ни о чем просить не надо. Он по факту обязан!"
+        },
+        {
+            "id": 12,
+            "name": "Jack London",
+            "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Jack_London_Genthe.jpg/800px-Jack_London_Genthe.jpg",
+            "quote": "С точки зрения спроса и предложения, жизнь - самая дешевая вещь на свете."
+        },
+        {
+            "id": 13,
+            "name": "三島 由紀夫",
+            "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Yukio_Mishima.jpg/411px-Yukio_Mishima.jpg",
+            "quote": "Ранней юности свойственно (и в этом ее беда) верить в то, что достаточно избрать своим кумиром Дьявола, и он исполнит все твои желания."
+        },
+        {
+            "id": 14,
+            "name": "Thomas Carlyle",
+            "photoUrl": "https://briefly.ru/static/cache/authors/320/misima.jpeg?1545431843",
+            "quote": "Идеал — в тебе самом. Препятствия к достижению его — в тебе же. Твое положение — есть тот материал, из которого ты должен осуществить этот идеал."
+        },
+        {
+            "id": 15,
+            "name": "Илья Меддисон",
+            "photoUrl": "https://gameguru.ru/media/cache/8e/7f/8e7fda4b18e737b415f4aceadc2c60ba.jpg",
+            "quote": "Я думаю, в данной игре нужно сделать что-нибудь оригинальное, как делал бог, когда создавал Валуева."
         }
+            
     ]
 }

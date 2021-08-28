@@ -5,7 +5,6 @@ import QuoteBox from './components/quoteBox.component';
 function App() {
   return (
       <QuoteBox/>
-      
   );
 }
 

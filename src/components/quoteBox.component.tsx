@@ -67,7 +67,7 @@ const QuoteBox = () => {
                         <p id='text' className="quote-text"><ImQuotesLeft className='double-quotes' size={24}/>{person ? person.quote : null}</p>
                         <div className='row'>
                             <a className='col-sm-2 twitter-link' href="twitter.com/intent/tweet"><AiFillTwitterSquare  size={40} color={'#0dcaf0'}/></a>
-                            <button className='btn btn-info float-right col-sm-2 quote-btn' id="new-quote" onClick={(event) => {
+                            <button className='btn btn-info col-sm-2 quote-btn' id="new-quote" onClick={(event) => {
                                 event?.preventDefault()
                                 let newPerson: Pstate;
                                 do {
